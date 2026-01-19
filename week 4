@@ -1,0 +1,13 @@
+# cyart-vapt-team
+
+## Full VAPT Engagement – Capstone Project
+
+This repository contains hands-on Vulnerability Assessment and Penetration Testing (VAPT) labs and a full capstone engagement conducted using industry-standard tools and methodologies.
+
+### Capstone Highlights
+- Target: HackTheBox VM (Lame)
+- Methodology: PTES
+- Tools: Kali Linux, Metasploit, Burp Suite, OpenVAS
+- Outcome: Successful exploitation, remediation, and validation
+
+📂 Detailed documentation is available in the Week-4-Capstone folder.
